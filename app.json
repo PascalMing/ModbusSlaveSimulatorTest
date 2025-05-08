@@ -1,0 +1,10 @@
+{
+  "BindIp": "0.0.0.0",
+  "BindPort": 502,
+  "SlaveCount": 20,
+  "SimulationEnable": false,
+  "SimulationUnitId": "1,2,3,4,5",
+  "SimulationRegisterMax": 1000,
+  "SimulationFreq": 2000,
+  "SimulationStep": 1
+}
